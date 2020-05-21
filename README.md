@@ -1,2 +1,5 @@
 # alpine-base
-Alpine Linux base image
+
+Alpine Linux amd64 base image with `curl`, `bash` and `tar`.
+
+This image is being built and pushed to Docker Hub once per day at `stefanprodan/alpine-base:latest`.
